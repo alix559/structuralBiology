@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structural Biology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Structural Biology"
-            }
-          },
-          {
-            "id": "30b124931fa51224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "RacketCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "RacketCode"
+            }
+          },
+          {
+            "id": "6a29a7f818ee7a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/data1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "data1"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RacketCode.md",
+                "file": "data/data1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for RacketCode"
+              "title": "Backlinks for data1"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RacketCode.md",
+                "file": "data/data1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RacketCode"
+              "title": "Outgoing links from data1"
             }
           },
           {
@@ -170,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RacketCode.md"
+                "file": "data/data1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of RacketCode"
+              "title": "Outline of data1"
             }
           }
         ]
@@ -193,9 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30b124931fa51224",
+  "active": "6a29a7f818ee7a4c",
   "lastOpenFiles": [
+    "RacketCode.md",
+    "data/data1.md",
+    "data",
     "Structural Biology.md",
-    "RacketCode.md"
+    "RacketCode.rkt"
   ]
 }
