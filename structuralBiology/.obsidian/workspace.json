@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Structural Biology"
             }
+          },
+          {
+            "id": "30b124931fa51224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RacketCode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RacketCode"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e22ed48cb19d38d4",
@@ -109,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structural Biology.md",
+                "file": "RacketCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Structural Biology"
+              "title": "Backlinks for RacketCode"
             }
           },
           {
@@ -128,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structural Biology.md",
+                "file": "RacketCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Structural Biology"
+              "title": "Outgoing links from RacketCode"
             }
           },
           {
@@ -155,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structural Biology.md"
+                "file": "RacketCode.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Structural Biology"
+              "title": "Outline of RacketCode"
             }
           }
         ]
@@ -178,8 +193,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d137d0ede6d339c",
+  "active": "30b124931fa51224",
   "lastOpenFiles": [
-    "Structural Biology.md"
+    "Structural Biology.md",
+    "RacketCode.md"
   ]
 }
